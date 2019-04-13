@@ -1,6 +1,6 @@
 # 基于Vue-cli Swiper的项目
 
-> A project
+> 只是对Swiper在vue中的简单应用
 
 ## Build Setup
 
